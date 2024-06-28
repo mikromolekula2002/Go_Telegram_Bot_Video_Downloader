@@ -6,7 +6,7 @@ Tiktok - https://rapidapi.com/scraptik-api-scraptik-api-default/api/scraptik
 Instagram - https://rapidapi.com/arraybobo/api/instagram-scraper-2022
 
 And now you need to create a .env file in the root of the repository and add your tokens there, EXAMPLE:
-# Token TG BOT
+#Token TG BOT
 Token= "your bot token here!"
 #TikTok Rapid Api Key
 ApiKey= "your api token here!"
